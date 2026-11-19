@@ -1,6 +1,6 @@
 module github.com/scottbrown/ecr-auditor
 
-go 1.25.5
+go 1.27.4
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.41.0

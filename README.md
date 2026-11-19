@@ -16,7 +16,7 @@ A CLI tool for auditing AWS ECR (Elastic Container Registry) repositories. It co
 
 ### Prerequisites
 
-- Go 1.21 or later
+- Go 1.27.4 or later
 - [Task](https://taskfile.dev/) (optional, for build automation)
 - AWS credentials configured (via `~/.aws/credentials` or environment variables)
 
